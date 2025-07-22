@@ -1,5 +1,0 @@
-pandas 
-numpy 
-sckit-learn 
-mlflow 
-seaborn
